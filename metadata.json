@@ -1,0 +1,6 @@
+{
+  "name": "LocalLens - AI Nearby Street Shop Finder",
+  "description": "AI-powered hyper-local street shop and vendor finder within a strict 0.5km radius by Nisha Mary J. Features live GPS, interactive map, AI recommendations, and shop owner portal.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
